@@ -64,3 +64,5 @@ if num % 2 = 0:
 else:
     print(f'O valor {num} é ÍMPAR')
 ```
+
+Inserir Emojis: isso é dentro da Issue. Usa o símbolo de 2 pontos e escreve o nome do emoji.
