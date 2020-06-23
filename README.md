@@ -49,3 +49,5 @@ Tabelas: é preciso usar um espaço, um síbolo pipe e outro espaço. Exemplo
 Número | Nome | Nota
 --- | --- | ---
 01 | Juliana | 9.8
+--- | --- | ---
+02 | Lyvia | 10.0
