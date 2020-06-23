@@ -52,3 +52,15 @@ Número | Nome | Nota
 02 | Lyvia | 10.0
 03 | Déborah | 9.0
 04 | Rayane | 8.9
+
+Indicando comandos: usa crase (sem espaço) antes e depois do comando. Exemplo
+O comando `document.getElementById()`não está ativado
+
+Inserir o trecho de um programa: usa 3 crases, dá ENTER e usa 3 crases de novo. Exemplo:
+```
+num = int(input('Digite um valor: ')
+if num % 2 = 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+```
