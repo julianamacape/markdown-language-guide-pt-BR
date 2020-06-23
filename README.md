@@ -66,3 +66,7 @@ else:
 ```
 
 Inserir Emojis: isso é dentro da Issue. Usa o símbolo de 2 pontos e escreve o nome do emoji.
+
+Criando um quote e dando reply: usa o sinal de maior que > Exemplo
+>Será que vai chover?
+Eu acho que hoje sim, hein?
