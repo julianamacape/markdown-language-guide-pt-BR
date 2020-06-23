@@ -45,3 +45,7 @@ Lista de tarefa: inicia um parágrafo e digita traço, espaço, abre colchete, e
 
 Inserir imagens: isso dentro de uma Issue, ok? Você faz _drag and drop_ com a imagem dentro da área de edição do texto da Issue
 
+Tabelas: é preciso usar um espaço, um síbolo pipe e outro espaço. Exemplo
+Número | Nome | Nota
+--- | --- | ---
+01 | Juliana | 9.8
