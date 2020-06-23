@@ -40,5 +40,8 @@ Lista demarcada: inicia um novo parágrafo, usa um asterisco ou traço e clica e
 
 Lista de tarefa: inicia um parágrafo e digita traço, espaço, abre colchete, espaço e fecha colchete. Exemplo
 - [ ] Tarefa 1
-- [ ] tarefa 2
+- [x] tarefa 2
 - [ ] tarefa 3
+
+Inserir imagens: isso dentro de uma Issue, ok? Você faz _drag and drop_ com a imagem dentro da área de edição do texto da Issue
+
